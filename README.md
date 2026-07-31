@@ -27,4 +27,4 @@ An end-to-end Data Analytics project examining bank transactions, customer balan
 
 ## Project Files & Dataset
 -  **[Download / View Excel Workbook](Banking%20Analytics%20Dashboard%20Excel.xlsx)** *(Full interactive dashboard & data model)*
--  `README.md`: Project documentation and key business insights.
+
